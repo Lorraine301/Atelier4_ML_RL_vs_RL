@@ -1,6 +1,5 @@
 ## Mode Agent RL vs Agent RL
 
-```markdown
 # Pong — Agent RL vs Agent RL
 
 ## Description
